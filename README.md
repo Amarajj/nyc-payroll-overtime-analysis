@@ -6,7 +6,8 @@ An end-to-end cloud analytics project: 2.2M+ NYC payroll records stored in **AWS
 
 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/NYCPayrollOvertimeAnalysis/Dashboard1)**
 
-![NYC Payroll Overtime Dashboard](dashboard.png)
+![NYC Payroll Overtime Dashboard](Screenshot%202026-11-13%20at%2018.46.38.png)
+
 
 ## Key findings
 
